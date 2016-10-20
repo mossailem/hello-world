@@ -17,6 +17,8 @@ public class NyobaGit {
     public static void main(String[] args) {
         // Print nyoba
         System.out.println("Gua lagi nyoba, nih. :-D");
+        
+        System.out.println("Ngedit dikit. :-D");
     }
     
 }
