@@ -19,6 +19,8 @@ public class NyobaGit {
         System.out.println("Gua lagi nyoba, nih. :-D");
         
         System.out.println("baru, nih.");
+        
+        System.out.println("ini juga baru.");
     }
     
 }
